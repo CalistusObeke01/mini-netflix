@@ -1,0 +1,12 @@
+div {
+  display: flex;
+  justify-content: center;
+  height: 89vh;
+  align-items: center;
+}
+
+h2 {
+  font-size: 5em;
+  text-transform: uppercase;
+  color: #8aa2ae;
+}
